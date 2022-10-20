@@ -23,8 +23,12 @@ You need [Alfred](https://www.alfredapp.com) for MacOS.
 - *am nt*: play next song
 - *am pt*: play previous song
 
-The commands are built in cascade to facilitate the selection:
+Commands are built in cascade to facilitate the selection:
 ![Am](https://user-images.githubusercontent.com/22590804/162215473-0d8b44ef-3027-4cdb-98dd-906634594f1c.png)
 
+Notifications in light and dark:  
+![Light](https://user-images.githubusercontent.com/22590804/196133883-cac057ca-f105-4260-baf3-297567317a16.png)
+![Dark](https://user-images.githubusercontent.com/22590804/196133875-2c0f1b88-ffd6-4b72-bea4-7a299f4fea8d.png)
+
 ### Download
-Latest release: [here](https://github.com/simonemargio/AppleMusic/releases/tag/v1.2.2)
+Latest release: [here](https://github.com/simonemargio/AppleMusic/releases/tag/v1.3.2)
