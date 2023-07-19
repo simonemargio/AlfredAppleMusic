@@ -23,12 +23,12 @@ You need [Alfred](https://www.alfredapp.com) for MacOS.
 - *am nt*: play next song
 - *am pt*: play previous song
 
-Commands are built in cascade to facilitate the selection:
-![Am](https://user-images.githubusercontent.com/22590804/162215473-0d8b44ef-3027-4cdb-98dd-906634594f1c.png)
+Commands are built in cascade to facilitate the selection:  
+![Am](https://gitlab.com/simonemargio/AppleMusic/uploads/5a5c333bcacfc9373e69f97c3b3c6404/162215473-0d8b44ef-3027-4cdb-98dd-906634594f1c.png)
 
 Notifications in light and dark:  
-![Light](https://user-images.githubusercontent.com/22590804/196133883-cac057ca-f105-4260-baf3-297567317a16.png)
-![Dark](https://user-images.githubusercontent.com/22590804/196133875-2c0f1b88-ffd6-4b72-bea4-7a299f4fea8d.png)
+![Light](https://gitlab.com/simonemargio/AppleMusic/uploads/9a89b8b20df1d03fef15962a81b941cc/196133883-cac057ca-f105-4260-baf3-297567317a16.png)
+![Dark](https://gitlab.com/simonemargio/AppleMusic/uploads/03794963abe9025a9ea01e9da63087dd/196133875-2c0f1b88-ffd6-4b72-bea4-7a299f4fea8d.png)
 
 ### Download
-Latest release: [here](https://github.com/simonemargio/AppleMusic/releases/tag/v1.3.2)
+Latest release: [here](https://gitlab.com/simonemargio/AppleMusic/-/releases/v1.3.2)
